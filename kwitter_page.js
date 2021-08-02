@@ -1,5 +1,5 @@
 //YOUR FIREBASE LINKS
-var firebaseConfig = {
+ var firebaseConfig = {
     apiKey: "AIzaSyA-O8dgTT-nb-X9ed0YumLH4BOyHSxogm4",
     authDomain: "swifter-66672.firebaseapp.com",
     databaseURL: "https://swifter-66672-default-rtdb.firebaseio.com",
