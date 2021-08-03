@@ -1,12 +1,11 @@
 //YOUR FIREBASE LINKS
  var firebaseConfig = {
-    apiKey: "AIzaSyA-O8dgTT-nb-X9ed0YumLH4BOyHSxogm4",
-    authDomain: "swifter-66672.firebaseapp.com",
-    databaseURL: "https://swifter-66672-default-rtdb.firebaseio.com",
-    projectId: "swifter-66672",
-    storageBucket: "swifter-66672.appspot.com",
-    messagingSenderId: "56010265469",
-    appId: "1:56010265469:web:44d9c654516104bd443214"
+    apiKey: "AIzaSyCt6Wt-k2kE_PwsdaX-9ewD4fOJ4GyVigE",
+    authDomain: "swifter-the-interactive.firebaseapp.com",
+    projectId: "swifter-the-interactive",
+    storageBucket: "swifter-the-interactive.appspot.com",
+    messagingSenderId: "688441613714",
+    appId: "1:688441613714:web:25c68d38902207dbba754b"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
